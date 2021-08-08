@@ -1,6 +1,9 @@
-package com.springpersistencetemplate.templateproject;
+package com.springpersistencetemplate.controllers;
 
 import java.util.List;
+
+import com.springpersistencetemplate.models.UserModel;
+import com.springpersistencetemplate.services.IUserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

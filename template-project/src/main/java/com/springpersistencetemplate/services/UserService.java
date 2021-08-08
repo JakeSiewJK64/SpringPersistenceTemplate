@@ -1,6 +1,9 @@
-package com.springpersistencetemplate.templateproject;
+package com.springpersistencetemplate.services;
 
 import java.util.List;
+
+import com.springpersistencetemplate.models.UserModel;
+import com.springpersistencetemplate.repositories.UserRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

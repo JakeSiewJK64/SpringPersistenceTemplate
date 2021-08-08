@@ -1,4 +1,4 @@
-package com.springpersistencetemplate.templateproject;
+package com.springpersistencetemplate.models;
 
 import java.io.Serializable;
 
